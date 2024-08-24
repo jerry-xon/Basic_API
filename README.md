@@ -21,4 +21,5 @@ npm start
 - Node.js (v14 or later recommended)
 - npm (Node package manager)
 
-
+License:
+This project is licensed under the MIT License - see the LICENSE file for details.
