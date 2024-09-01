@@ -1,0 +1,15 @@
+{
+  "name": "basic_api",
+  "version": "1.0.0",
+  "description": "This repository contains a basic example of a RESTful API built with Node.js and Express.js. It demonstrates how to set up a simple server, define routes, and handle HTTP requests for creating, reading, updating, and deleting (CRUD) data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
